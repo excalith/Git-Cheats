@@ -6,8 +6,7 @@
             "tel": "తెలుగు",
             "hin": "हिंदी",
             "kli": "Klingon",
-            "id": "Indonesia",
-			"de": "Deutsch"
+            "id": "Indonesia"
         },
         "search": {
             "en": "Search Command",
@@ -15,8 +14,7 @@
             "tel": "శోధన ఆదేశం",
             "hin": "खोज कमांड",
             "kli": "tu'",
-            "id": "Cari Perintah",
-			"de": "Suchen"
+            "id": "Cari Perintah"
         },
         "advancedCommands": {
             "en": "Advanced Commands",
@@ -24,8 +22,7 @@
             "tel": "అధునాతన ఆదేశాలు",
             "hin": "उन्नत आदेश",
             "kli": "'Itlh",
-            "id": "Perintah Lanjutan",
-			"de": "Erweiterte Befehle"
+            "id": "Perintah Lanjutan"
         },
         "settings": {
             "en": "Settings",
@@ -33,8 +30,7 @@
             "tel": "సెట్టింగులు",
             "hin": "सेटिंग्स",
             "kli": "HIjmeH",
-            "id": "Pengaturan",
-			"de": "Einstellungen"
+            "id": "Pengaturan"
         },
         "readMore": {
             "en": "Read More",
@@ -42,8 +38,7 @@
             "tel": "ఇంకా చదవండి",
             "hin": "और पढो",
             "kli": "laD",
-            "id": "Baca Selengkapnya",
-			"de": "Weiterlesen"
+            "id": "Baca Selengkapnya"
         },
         "options": {
             "en": "Options",
@@ -51,8 +46,7 @@
             "tel": "ఎంపికలు",
             "hin": "विकल्प",
             "kli": "DuH",
-            "id": "Pilihan",
-			"de": "Optionen"
+            "id": "Pilihan"
         }
     },
     "commands": {
@@ -65,8 +59,7 @@
                 "tel": "సృష్టించడానికి",
                 "hin": "सर्जन करना",
                 "kli": "chenmoH",
-                "id": "Buat",
-				"de": "Erstellen"
+                "id": "Buat"
             },
             "keywords": "create init start",
             "desc": {
@@ -75,8 +68,7 @@
                 "tel": "ఒక ఖాళీ గిట్ పోజిటరీను సృష్టించండి లేదా ఇప్పటికే ఉన్న ఒకటిని పునఃప్రారంభించండి",
                 "hin": "एक खाली गिट भंडार बनाएँ या मौजूदा एक को फिर से शुरू करें",
                 "kli": "chIm git ngevwI' chenmoH pagh nIv'e' chenmoH wa'",
-                "id": "Buat tempat penyimpanan Git kosong atau mulai ulang yang sudah ada",
-				"de": "Ein leeres Git Repository erstellen oder ein bestehendes initialisieren"
+                "id": "Buat tempat penyimpanan Git kosong atau mulai ulang yang sudah ada"
             },
             "url": "https://git-scm.com/docs/git-init",
             "options": [
@@ -89,8 +81,7 @@
                         "tel": "ఒక ఖాళీ గిట్ పోజిటరీను సృష్టించండి లేదా ఇప్పటికే ఉన్న ఒకటిని పునఃప్రారంభించండి",
                         "hin": "एक खाली गिट भंडार बनाएँ या मौजूदा एक को फिर से शुरू करें",
                         "kli": "chIm git ngevwI' chenmoH pagh nIv'e' chenmoH wa'",
-                        "id": "Buat tempat penyimpanan Git kosong atau mulai ulang yang sudah ada",
-						"de": "Ein leeres Git Repository erstellen oder ein bestehendes initialisieren"                     
+                        "id": "Buat tempat penyimpanan Git kosong atau mulai ulang yang sudah ada"                     
                     }
                 }
             ]
@@ -104,8 +95,7 @@
                 "tel": "సృష్టించడానికి",
                 "hin": "सर्जन करना",
                 "kli": "chenmoH",
-                "id": "Buat",
-				"de": "Erstellen"
+                "id": "Buat"
             },
             "keywords": "create clone new",
             "desc": {
@@ -114,8 +104,7 @@
                 "tel": "కొత్త డైరెక్టరీలో రిపోజిటరీను క్లోన్ చేయండి",
                 "hin": "एक नई निर्देशिका में एक भंडार क्लोन करें",
                 "kli": "lutu'lu'bej jInmol 'e' chonayta' nIv'e' pa' chenmoH",
-                "id": "Buat salinan lokal dari proyek yang sudah ada secara remote",
-				"de": "Eine lokale Kopie eines Projektes erstellen, welches remote bereits existiert"				
+                "id": "Buat salinan lokal dari proyek yang sudah ada secara remote" 
             },
             "url": "https://git-scm.com/docs/git-clone",
             "options": [
@@ -128,8 +117,7 @@
                         "tel": "రిపోజిటరీ క్లోన్",
                         "hin": "एक भंडार क्लोन करें",
                         "kli": "DoS ngevwI' chenmoH",
-                        "id": "Klon target tempat penyimpanan",
-						"de": "Ziel Repository klonen"
+                        "id": "Klon target tempat penyimpanan"
                     }
                 },
                 {
@@ -141,8 +129,7 @@
                         "tel": "శాఖ-పేరుతో రిపోజిటరీ క్లోన్ చేయబడింది",
                         "hin": "शाखा-नाम चेक आउट के साथ एक भंडार क्लोन करें",
                         "kli": "ngevwI' chenmoH Sor-pong",
-                        "id": "Klon sebuah repository dengan nama cabang yang diperiksa",
-						"de": "Repository mit ausgechecktem Branch Namen klonen, "
+                        "id": "Klon sebuah repository dengan nama cabang yang diperiksa"
                     }
                 }
             ]
@@ -156,8 +143,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes add",
             "desc": {
@@ -166,8 +152,7 @@
                 "tel": "తదుపరి చందా కోసం నిర్వహించిన కంటెంట్ను సిద్ధం చేయడానికి, పని చెట్టులో ఉన్న ప్రస్తుత కంటెంట్ను ఉపయోగించి ఇండెక్స్ను నవీకరించడం",
                 "hin": "अगली प्रतिबद्धता के लिए आयोजित सामग्री तैयार करने के लिए, कार्यरत पेड़ में पाए गए वर्तमान सामग्री का उपयोग करके इंडेक्स को अपडेट करता है",
                 "kli": "mIw choH neH Sor",
-                "id": "Perubahan stage di working tree",
-				"de": "Änderungen im Arbeitsbaum hinzufügen"
+                "id": "Perubahan stage di working tree"
             },
             "url": "https://git-scm.com/docs/git-add",
             "options": [
@@ -180,8 +165,7 @@
                         "tel": "ఇచ్చిన ఫైల్ను వేదిక ప్రాంతానికి జోడిస్తుంది",
                         "hin": "चरण क्षेत्र में दी गई फ़ाइल जोड़ता है",
                         "kli": "chel nob teywI' mIw mIchHom",
-                        "id": "Tambahkan file ke bagian stage",
-						"de": "Datei zur Stage Area hinzufügen"
+                        "id": "Tambahkan file ke bagian stage"
                     }
                 },
                 {
@@ -193,8 +177,7 @@
                         "tel": "ఇంటరాక్టివ్గా ఇండెక్స్ మరియు పని ట్రీ మధ్య పాచ్ యొక్క hunks ఎంచుకోండి మరియు ఇండెక్స్ వాటిని జోడించండి",
                         "hin": "इंटरैक्टिव रूप से इंडेक्स और कार्य पेड़ के बीच पैच के शिकारी चुनें और उन्हें इंडेक्स में जोड़ें",
                         "kli": "'ay' DuqIppu'chugh Qu'mey potlh Qap Sor wutlh 'ej chaHvaD chel Qu'mey potlh",
-                        "id": "Pilih secara interaktif potongan patch antara indeks dan pohon kerja dan menambahkannya ke indeks",
-						"de": "Hunks auswählen und dem Index hinzufügen"
+                        "id": "Pilih secara interaktif potongan patch antara indeks dan pohon kerja dan menambahkannya ke indeks"
                     }
                 },
                 {
@@ -206,8 +189,7 @@
                         "tel": "ఇచ్చిన ఫోల్డర్లోని అన్ని ఫైళ్లను జోడిస్తుంది",
                         "hin": "दिए गए फ़ोल्डर के भीतर सभी फाइलें जोड़ता है",
                         "kli": "Hoch teywI' 'emvo' chel ngevwI' nob",
-                        "id": "Menambahkan semua file dalam folder yang diberikan",
-						"de": "Alle Dateien eines bestimmten Ordners hinzufügen"
+                        "id": "Menambahkan semua file dalam folder yang diberikan"
                     }
                 },
                 {
@@ -219,8 +201,7 @@
                         "tel": "దశ విస్తరణకు అన్ని పొడిగింపు ఫైళ్లను జోడిస్తుంది",
                         "hin": "चरण क्षेत्र में सभी एक्सटेंशन फ़ाइलों को जोड़ता है",
                         "kli": "Hoch teywI' Segh teywI' chel mIw mIchHom",
-                        "id": "Menambahkan semua file ekstensi ke area panggung",
-						"de": "Alle Dateien eines bestimmten Types hinzufügen"
+                        "id": "Menambahkan semua file ekstensi ke area panggung"
                     }
                 }
             ]
@@ -234,8 +215,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes status",
             "desc": {
@@ -244,8 +224,7 @@
                 "tel": "మీ పని డైరెక్టరీలో మార్చబడిన ఫైల్లు",
                 "hin": "आपकी कार्यशील निर्देशिका पर बदली गई फाइलें",
                 "kli": "choH je wej ghoch, choH joq mIw Dotlh cha'",
-                "id": "Memperlihatkan status perubahan sebagai tidak terlacak, dimodifikasi, atau dipentaskan",
-				"de": "Status der Änderungen anzeigen"
+                "id": "Memperlihatkan status perubahan sebagai tidak terlacak, dimodifikasi, atau dipentaskan"
             },
             "url": "https://git-scm.com/docs/git-status",
             "options": [
@@ -258,8 +237,7 @@
                         "tel": "మీ పని డైరెక్టరీలో మార్చబడిన ఫైల్లు",
                         "hin": "आपकी कार्यशील निर्देशिका पर बदली गई फाइलें",
                         "kli": "choH teywI' waw'",
-                        "id": "File yang diubah pada direktori kerja Anda",
-						"de": "Geänderte Dateien in deinem Arbeits Verzeichnis"
+                        "id": "File yang diubah pada direktori kerja Anda"
                     }
                 },
                 {
@@ -271,8 +249,7 @@
                         "tel": "చిన్న ఫార్మాట్లో ఉత్పత్తిని ఇవ్వండి",
                         "hin": "आउटपुट को लघु प्रारूप में दें",
                         "kli": "ghot'e' nob neH yopwaH bID-chenmoH",
-                        "id": "Berikan output dalam format pendek",
-						"de": "Ausgabe im Kurzformat"
+                        "id": "Berikan output dalam format pendek"
                     }
                 },
                 {
@@ -284,8 +261,7 @@
                         "tel": "చిన్న ఫార్మాట్లో కూడా బ్రాంచ్ మరియు ట్రాకింగ్ సమాచారాన్ని చూపించు",
                         "hin": "शॉर्ट-फॉर्मेट में भी शाखा और ट्रैकिंग जानकारी दिखाएं",
                         "kli": "Sor ghoch 'ej info cha' vabDot qaStaHvIS yopwaH bID-chenmoH",
-                        "id": "Tampilkan cabang dan info pelacakan bahkan dalam format pendek",
-						"de": "Zeige die Branch und Tracking Informationen im Kurzformat"
+                        "id": "Tampilkan cabang dan info pelacakan bahkan dalam format pendek"
                     }
                 }
             ]
@@ -299,8 +275,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes diff",
             "desc": {
@@ -309,8 +284,7 @@
                 "tel": "పని చెట్టు మరియు ఇండెక్స్ లేదా చెట్టు మధ్య మార్పులను చూపించు, ఇండెక్స్ మరియు చెట్టు మధ్య మార్పులు",
                 "hin": "काम करने वाले पेड़ और सूचकांक या पेड़, सूचकांक और पेड़ के बीच परिवर्तन के बीच परिवर्तन दिखाएं",
                 "kli": "teywI' pIm wej mIw cha'",
-                "id": "Memperlihatkan perbedaan file yang belum dipentaskan",
-				"de": "Zeigt die nicht gestagden Änderungen"
+                "id": "Memperlihatkan perbedaan file yang belum dipentaskan"
             },
             "url": "https://git-scm.com/docs/git-diff",
             "options": [
@@ -323,8 +297,7 @@
                         "tel": "పని చెట్టు మరియు ఇండెక్స్ మధ్య ఉన్న అన్ని మార్పులను చూపుతుంది",
                         "hin": "कार्य पेड़ और सूचकांक के बीच सभी परिवर्तनों को दिखाएं",
                         "kli": "Hoch choH DuqIppu'chugh Sor Qu'mey potlh cha' choH",
-                        "id": "Tampilkan perubahan semua perubahan antara pohon yang bekerja dan indeks",
-						"de": "Alle Änderungen zwischen dem Arbeitsbaum und dem Index anzeigen"
+                        "id": "Tampilkan perubahan semua perubahan antara pohon yang bekerja dan indeks"
                     }
                 },
                 {
@@ -336,8 +309,7 @@
                         "tel": "పని చెట్టు మరియు సూచిక మధ్య ఒక ఫైల్కు మార్పులను చూపించు",
                         "hin": "काम करने वाले पेड़ और सूचकांक के बीच एक फ़ाइल में परिवर्तन दिखाएं",
                         "kli": "cha' choH teywI' DuqIppu'chugh Sor Qu'mey potlh",
-                        "id": "Tampilkan perubahan pada file antara pohon kerja dan indeks",
-						"de": "Änderungen einer Quelle zwischen dem Arbeitsbaum und dem Index anzeigen"
+                        "id": "Tampilkan perubahan pada file antara pohon kerja dan indeks"
                     }
                 }
             ]
@@ -351,8 +323,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes commit",
             "desc": {
@@ -361,8 +332,7 @@
                 "tel": "మార్పులను వివరిస్తున్న వినియోగదారు నుండి లాగ్ మెసేజ్తో పాటు ఇండెక్స్ యొక్క ప్రస్తుత విషయాలను ఒక నూతన కమిట్ లో నిల్వ చేస్తుంది",
                 "hin": "परिवर्तनों का वर्णन करने वाले उपयोगकर्ता से लॉग संदेश के साथ एक नई प्रतिबद्धता में इंडेक्स की वर्तमान सामग्री को स्टोर करता है",
                 "kli": "Qu'mey potlh pol jInmol qun",
-                "id": "Menyimpan snapshot ke riwayat proyek",
-				"de": "Speichert den Snapshot in der Projekt Geschichte"
+                "id": "Menyimpan snapshot ke riwayat proyek"
             },
             "url": "https://git-scm.com/docs/git-commit",
             "options": [
@@ -375,8 +345,7 @@
                         "tel": "ఇవ్వబడిన message ను నిబద్ధత సందేశం వలె ఉపయోగించండి. బహుళ -m ఎంపికలు ఇచ్చినట్లయితే, వారి విలువలు ప్రత్యేక పేరాలుగా జతచేయబడతాయి",
                         "hin": "दिए गए संदेश का प्रयोग प्रतिबद्ध संदेश के रूप में करें। यदि एकाधिक-एम विकल्प दिए जाते हैं, तो उनके मान अलग-अलग पैराग्राफ के रूप में समेकित होते हैं",
                         "kli": "QIn lo' HeS",
-                        "id": "Gunakan pesan yang diberikan sebagai pesan komit. Jika opsi multiple -m diberikan, nilainya akan digabungkan sebagai paragraf terpisah",
-						"de": "Die angegebene Nachricht als Commit Nachricht verwenden. Falls mehrere -m Optionen angegeben werden, werden die Werte als verschiedene Paragraphen zusammengehängt"
+                        "id": "Gunakan pesan yang diberikan sebagai pesan komit. Jika opsi multiple -m diberikan, nilainya akan digabungkan sebagai paragraf terpisah"
                     }
                 },
                 {
@@ -388,8 +357,7 @@
                         "tel": "స్వయంచాలకంగా దశలను మార్చిన మరియు తొలగించిన ఫైల్లను ఆదేశానికి చెప్పండి, కానీ క్రొత్త ఫైల్లు మీరు Git కు తెలియకపోతే ప్రభావితం కాదు",
                         "hin": "कमांड को उन फ़ाइलों को स्वचालित रूप से चरणबद्ध करने के लिए कहें जिन्हें संशोधित और हटा दिया गया है, लेकिन जिन नई फ़ाइलों को आपने गिट को नहीं बताया है, वे प्रभावित नहीं हैं",
                         "kli": "Hoch chel 'ej luqoplu'",
-                        "id": "Beri tahu perintah untuk secara otomatis membuat file yang telah dimodifikasi dan dihapus, tetapi file baru yang belum Anda beri tahu tentang Git tidak terpengaruh",
-						"de": "Dateien welche geändert oder gelöscht wurden stagen, alle Dateien welche Git noch nicht kennt bleiben unberührt"
+                        "id": "Beri tahu perintah untuk secara otomatis membuat file yang telah dimodifikasi dan dihapus, tetapi file baru yang belum Anda beri tahu tentang Git tidak terpengaruh"
                     }
                 },
                 {
@@ -401,8 +369,7 @@
                         "tel": "చివరి నిబద్ధత మార్పులు / నవీకరణలు",
                         "hin": "आखिरी प्रतिबद्धता बदलता / अपडेट करता है",
                         "kli": "choH Qav luqoplu' chel",
-                        "id": "Memperbarui komit terakhir tanpa membuat komit baru",
-						"de": "Änderungen im letzten Commit aktualisieren ohne einen neuen Commit anzulegen"
+                        "id": "Memperbarui komit terakhir tanpa membuat komit baru"
                     }
                 },
                 {
@@ -414,8 +381,7 @@
                         "tel": "ప్రస్తుత బ్రాంచ్ పైన ఒక ఒడంబడిక సృష్టించండి",
                         "hin": "वर्तमान शाखा के शीर्ष पर एक एकल प्रतिबद्धता बनाएं",
                         "kli": "Vas HeS on top of Sor Qu'mey potlh chenmoH",
-                        "id": "Buat komit tunggal di atas cabang saat ini",
-						"de": "Einen neuen Commit auf der aktuellen Branch anlegen"
+                        "id": "Buat komit tunggal di atas cabang saat ini"
                     }
                 }
             ]
@@ -429,8 +395,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes stash",
             "desc": {
@@ -439,8 +404,7 @@
                 "tel": "మురికి పని డైరెక్టరీలో మార్పులను దూరం చేయండి",
                 "hin": "एक गंदे कामकाजी निर्देशिका में परिवर्तन को दूर करें",
                 "kli": "toD 'ej wej naQmoH wanI'mey choH SabHa'",
-                "id": "Menyimpan dan mengembalikan perubahan yang tidak lengkap",
-				"de": "Vestauen und inkomplette Änderungen wiederherstellen"
+                "id": "Menyimpan dan mengembalikan perubahan yang tidak lengkap"
             },
             "url": "https://git-scm.com/docs/git-stash",
             "options": [
@@ -453,8 +417,7 @@
                         "tel": "మీ అన్ని గీతలు చూపుతుంది",
                         "hin": "आपके सभी स्टैश दिखाता है",
                         "kli": "cha' vItoDmeH tetlh",
-                        "id": "Menunjukkan semua simpanan Anda",
-						"de": "Alle Stashes anzeigen"
+                        "id": "Menunjukkan semua simpanan Anda"
                     }
                 },
                 {
@@ -466,8 +429,7 @@
                         "tel": "మీ స్థానిక మార్పులను కొత్త స్టాండ్ ఎంట్రీకి సేవ్ చేస్తుంది",
                         "hin": "अपने स्थानीय संशोधनों को एक नई छिद्र प्रविष्टि में सहेजता है",
                         "kli": "lutu'lu'bej choH pol chu' toD",
-                        "id": "Simpan modifikasi lokal Anda ke entri simpanan baru",
-						"de": "Lokale Änderungen in neuem Stash speichern"
+                        "id": "Simpan modifikasi lokal Anda ke entri simpanan baru"
                     }
                 },
                 {
@@ -479,8 +441,7 @@
                         "tel": "ఇండెక్స్లో స్టాష్ను వర్తిస్తుంది",
                         "hin": "सूचकांक में छिद्र लागू करता है",
                         "kli": "toD chenmoH",
-                        "id": "Menerapkan simpanan dalam indeks",
-						"de": "Stash in Index anwenden"
+                        "id": "Menerapkan simpanan dalam indeks"
                     }
                 },
                 {
@@ -492,8 +453,7 @@
                         "tel": "ఇండెక్స్ లో స్టాష్ వర్తిస్తుంది మరియు అది స్టష్ లిస్టు నుండి తొలగిస్తుంది",
                         "hin": "सूचकांक में छेड़छाड़ लागू करता है और इसे स्टैश सूची से हटा देता है",
                         "kli": "toD chenmoH je toD teq",
-                        "id": "Terapkan indeks simpanan dan hapus dari daftar simpanan",
-						"de": "Stash in Index anwenden und aus Stash Liste entfernen"
+                        "id": "Terapkan indeks simpanan dan hapus dari daftar simpanan"
                     }
                 },
                 {
@@ -505,8 +465,7 @@
                         "tel": "ఇండెక్స్ లేకుండా స్టాష్ జాబితా నుండి సూచికను తీసివేస్తుంది",
                         "hin": "लागू किए बिना स्टैश सूची से इंडेक्स को हटा देता है",
                         "kli": "Qu'mey potlh teq",
-                        "id": "Menghapus indeks dari daftar simpanan tanpa menerapkan",
-						"de": "Index aus Stash List entfernen ohne Änderungen anzuwenden"
+                        "id": "Menghapus indeks dari daftar simpanan tanpa menerapkan"
                     }
                 },
                 {
@@ -518,8 +477,7 @@
                         "tel": "స్పష్టం",
                         "hin": "स्पष्ट छिपाना",
                         "kli": "Huv tetlh toD",
-                        "id": "Membersihkan daftar simpanan",
-						"de": "Stash Liste löschen"
+                        "id": "Membersihkan daftar simpanan"
                     }
                 }
             ]
@@ -533,8 +491,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes remove rm",
             "desc": {
@@ -543,8 +500,7 @@
                 "tel": "ఇండెక్స్ నుండి ఫైళ్ళను తొలగించండి",
                 "hin": "सूचकांक से फ़ाइलों को हटा दें",
                 "kli": "teywI' teq Qu'mey potlh vo'",
-                "id": "Hapus file dari indeks",
-				"de": "Dateien aus Index entfernen"
+                "id": "Hapus file dari indeks"
             },
             "url": "https://git-scm.com/docs/git-rm",
             "options": [
@@ -557,8 +513,7 @@
                         "tel": "ఇండెక్స్ నుండి ఫైళ్ళను తొలగించండి",
                         "hin": "सूचकांक से फ़ाइलों को हटा दें",
                         "kli": "teywI' teq vo' mIw yoS",
-                        "id": "Menghapus file dari area stage",
-						"de": "Dateien aus Stage Area entfernen"
+                        "id": "Menghapus file dari area stage"
                     }
                 }
             ]
@@ -572,8 +527,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes move mv",
             "desc": {
@@ -582,8 +536,7 @@
                 "tel": "ఫైల్ను లేదా డైరెక్టరీని తరలించండి లేదా పేరు మార్చండి",
                 "hin": "फ़ाइल या निर्देशिका को ले जाएं या नाम बदलें",
                 "kli": "vIH pagh teywI' pong choH",
-                "id": "Memindahkan atau mengganti nama file atau direktori",
-				"de": "Datei oder Verzeichnis verschieben oder entfernen"
+                "id": "Memindahkan atau mengganti nama file atau direktori"
             },
             "url": "https://git-scm.com/docs/git-mv",
             "options": [
@@ -596,8 +549,7 @@
                         "tel": "మూలాలను మూసివేయడం లేదా పునరుద్ధరించడం",
                         "hin": "स्रोत चलाता है या नाम बदलता है",
                         "kli": "vIH choH pong Hal pagh",
-                        "id": "Memindahkan atau mengganti nama sumber",
-						"de": "Quelle verschieben oder entfernen"
+                        "id": "Memindahkan atau mengganti nama sumber"
                     }
                 },
                 {
@@ -609,8 +561,7 @@
                         "tel": "గమ్యస్థానంలో ఉన్నట్లయితే మూలాన్ని తరలించడానికి లేదా పేరు మార్చడానికి ఫోర్సెస్",
                         "hin": "स्रोतों को स्थानांतरित करने या नाम बदलने के लिए बल, भले ही यह गंतव्य में मौजूद हो",
                         "kli": "vIH pagh Hal pong choH vabDot nIv'e' 'oH neH ghoch raD",
-                        "id": "Memaksa untuk memindahkan atau mengganti nama sumber meskipun ada di tujuan",
-						"de": "Quelle verschieben oder entfernen auch wenn sie im Ziel bereits existiert"
+                        "id": "Memaksa untuk memindahkan atau mengganti nama sumber meskipun ada di tujuan"
                     }
                 }
             ]
@@ -624,8 +575,7 @@
                 "tel": "మార్పులు",
                 "hin": "परिवर्तन",
                 "kli": "choH",
-                "id": "Perubahan",
-				"de": "Änderungen"
+                "id": "Perubahan"
             },
             "keywords": "changes tag",
             "desc": {
@@ -634,8 +584,7 @@
                 "tel": "ట్యాగ్తో ప్రస్తుత నిబద్ధతను సూచిస్తుంది",
                 "hin": "एक टैग के साथ वर्तमान प्रतिबद्धता को चिह्नित करता है",
                 "kli": "Qu'mey potlh HeS ghaH 'e' maq per ghItlh",
-                "id": "Menandai komit saat ini dengan tag",
-				"de": "Markiert den aktuellen Commit mit einem Tag"
+                "id": "Menandai komit saat ini dengan tag"
             },
             "url": "https://git-scm.com/docs/git-tag",
             "options": [
@@ -648,8 +597,7 @@
                         "tel": "అన్ని ట్యాగ్లను జాబితా చేస్తుంది",
                         "hin": "सभी टैग सूचीबद्ध करता है",
                         "kli": "maq per Hoch tetlh",
-                        "id": "Daftar semua tag",
-						"de": "Liste aller Tags"
+                        "id": "Daftar semua tag"
                     }
                 },
                 {
@@ -661,8 +609,7 @@
                         "tel": "ట్యాగ్తో ప్రస్తుత నిబద్ధతను సూచిస్తుంది",
                         "hin": "एक टैग के साथ वर्तमान प्रतिबद्धता को चिह्नित करता है",
                         "kli": "Qu'mey potlh HeS ghaH 'e' maq per ghItlh",
-                        "id": "Menandai komit saat ini dengan tag",
-						"de": "Markiert den aktuellen Commit mit einem Tag"
+                        "id": "Menandai komit saat ini dengan tag"
                     }
                 },
                 {
@@ -674,8 +621,7 @@
                         "tel": "ఇచ్చిన పేర్లతో ఉన్న ట్యాగ్లను తొలగించండి",
                         "hin": "दिए गए नामों के साथ मौजूदा टैग हटाएं",
                         "kli": "nIv'e' maq per pong Qaw'",
-                        "id": "Hapus tag yang ada dengan nama yang diberikan",
-						"de": "Löscht Tags mit dem entsprechenden Namen"
+                        "id": "Hapus tag yang ada dengan nama yang diberikan"
                     }
                 }
             ]
@@ -689,8 +635,7 @@
                 "tel": "శాఖ",
                 "hin": "डाली",
                 "kli": "Sor",
-                "id": "Cabang",
-				"de": "Branch"
+                "id": "Cabang"
             },
             "keywords": "branch",
             "desc": {
@@ -699,8 +644,7 @@
                 "tel": "జాబితా, సృష్టించండి లేదా శాఖలను తొలగించండి",
                 "hin": "शाखाओं की सूची बनाएं, बनाएं या हटाएं",
                 "kli": "tetlh, chenmoH, pagh Sor Qaw'",
-                "id": "Daftar, buat, atau hapus cabang",
-				"de": "Erstellen, löschen oder auflisten der Branches"
+                "id": "Daftar, buat, atau hapus cabang"
             },
             "url": "https://git-scm.com/docs/git-branch",
             "options": [
@@ -713,8 +657,7 @@
                         "tel": "శాఖ పేరును పిలిచే HEAD నుండి కొత్త శాఖను సృష్టిస్తుంది",
                         "hin": "शाखा नाम नामक HEAD से एक नई शाखा बनाता है",
                         "kli": "Sor chu' chenmoH vo' nach Sor-pong ponglu'",
-                        "id": "Membuat cabang baru dari HEAD disebut nama cabang",
-						"de": "Neue Branch aus Head erstellen mit gegebenem Namen"
+                        "id": "Membuat cabang baru dari HEAD disebut nama cabang"
                     }
                 },
                 {
@@ -726,8 +669,7 @@
                         "tel": "బ్రాడ్-నేమ్ అని పిలవబడే HEAD నుండి కొత్త బ్రాంచ్కి వెతుకుతుంది మరియు తనిఖీ చేస్తుంది",
                         "hin": "शाखा-नाम नामक HEAD से एक नई शाखा में बनाता है और जांचता है",
                         "kli": "chenmoH 'ej checks 'e' yIQoy Sor chu' vo' nach Sor-pong ponglu'",
-                        "id": "Membuat dan memeriksa ke cabang baru dari HEAD disebut nama-cabang",
-						"de": "Neue Branch aus Head erstellen und prüfen mit gegebenem Namen"
+                        "id": "Membuat dan memeriksa ke cabang baru dari HEAD disebut nama-cabang"
                     }
                 },
                 {
@@ -739,8 +681,7 @@
                         "tel": "రిమోట్ ట్రాకింగ్ శాఖలు మరియు స్థానిక శాఖలు రెండింటిని జాబితా చేయండి",
                         "hin": "रिमोट-ट्रैकिंग शाखाओं और स्थानीय शाखाओं दोनों की सूची बनाएं",
                         "kli": "batlhchaj Hop ghoch Sor 'ej lutu'lu'bej Sor tetlh",
-                        "id": "Buat daftar cabang pelacakan jarak jauh dan cabang lokal",
-						"de": "Remote und lokale Branches auflisten"
+                        "id": "Buat daftar cabang pelacakan jarak jauh dan cabang lokal"
                     }
                 },
                 {
@@ -752,8 +693,7 @@
                         "tel": "ఒక శాఖను తొలగించండి. అప్స్ట్రీమ్ సంఖ్య - స్ట్రక్ లేదా - సెట్ అప్స్ట్రీమ్తో అప్స్ట్రీమ్ సెట్ చేయకపోతే, శాఖ దాని పూర్తిస్థాయి శాఖలో లేదా HEAD లో పూర్తిగా విలీనం కావాలి",
                         "hin": "एक शाखा हटाएं। शाखा को अपनी अपस्ट्रीम शाखा में पूरी तरह से विलय किया जाना चाहिए, या हेड में अगर कोई अपस्ट्रीम सेट नहीं किया गया था --track या --set-upstream",
                         "kli": "Sor Qaw'. ghob'e' fully DuD Sor reH woDDI' Sor",
-                        "id": "Hapus cabang. Cabang harus sepenuhnya digabung dalam cabang hulu, atau dalam HEAD jika tidak ada hulu ditetapkan dengan --track atau --set-upstream",
-						"de": "Branch löschen. Die Branch muss vollständig in die entsprechende upstream Branch gemerged sein oder in HEAD, falls mit --track oder --set-upstream gesetzt"
+                        "id": "Hapus cabang. Cabang harus sepenuhnya digabung dalam cabang hulu, atau dalam HEAD jika tidak ada hulu ditetapkan dengan --track atau --set-upstream"
                     }
                 }
             ]
@@ -767,8 +707,7 @@
                 "tel": "శాఖ",
                 "hin": "डाली",
                 "kli": "Sor",
-                "id": "Cabang",
-				"de": "Branch"
+                "id": "Cabang"
             },
             "keywords": "branch checkout",
             "desc": {
@@ -777,8 +716,7 @@
                 "tel": "శాఖలు మారండి లేదా పని చెట్టు ఫైళ్లను పునరుద్ధరించండి",
                 "hin": "शाखाएं स्विच करें या काम कर रहे पेड़ फ़ाइलों को पुनर्स्थापित करें",
                 "kli": "Sor pagh SabHa' Sor teywI' Qap leQ",
-                "id": "Pindah cabang atau pulihkan file pohon yang berfungsi",
-				"de": "Branches wechseln oder Arbeitsbaum Dateien wiederherstellen"
+                "id": "Pindah cabang atau pulihkan file pohon yang berfungsi"
             },
             "url": "https://git-scm.com/docs/git-checkout",
             "options": [
@@ -791,8 +729,7 @@
                         "tel": "శాఖలు మారండి లేదా పని చెట్టు ఫైళ్లను పునరుద్ధరించండి",
                         "hin": "शाखाएं स्विच करें या काम कर रहे पेड़ फ़ाइलों को पुनर्स्थापित करें",
                         "kli": "Sor pagh SabHa' Sor teywI' Qap leQ",
-                        "id": "Pindah cabang atau pulihkan file pohon yang berfungsi",
-						"de": "Branches wechseln oder Arbeitsbaum Dateien wiederherstellen"
+                        "id": "Pindah cabang atau pulihkan file pohon yang berfungsi"
                     }
                 },
                 {
@@ -804,8 +741,7 @@
                         "tel": "రిమోట్ బ్రాంచ్ని తనిఖీ చేయండి మరియు ట్రాక్ చేయండి",
                         "hin": "एक रिमोट शाखा चेकआउट और ट्रैक करें",
                         "kli": "'ej Sor Hop ghoch",
-                        "id": "Periksa dan lacak cabang jarak jauh",
-						"de": "Checkout und Tracken der Remote Branch"
+                        "id": "Periksa dan lacak cabang jarak jauh"
                     }
                 },
                 {
@@ -817,8 +753,7 @@
                         "tel": "HEAD లో ఉన్న అన్ని స్థానిక స్థానిక మార్పులను విస్మరించండి",
                         "hin": "HEAD में सभी ट्रैक किए गए स्थानीय परिवर्तनों को छोड़ दें",
                         "kli": "Hoch ghoch lutu'lu'bej choH qaStaHvIS nach polHa'",
-                        "id": "Buang semua perubahan lokal yang dilacak di HEAD",
-						"de": "Alle gerackten Änderungen in HEAD verwerfen"
+                        "id": "Buang semua perubahan lokal yang dilacak di HEAD"
                     }
                 },
                 {
@@ -830,8 +765,7 @@
                         "tel": "ట్రాక్ చేయబడిన ఫైల్ను రీసెట్ చేస్తుంది",
                         "hin": "एक ट्रैक की गई फ़ाइल रीसेट करता है",
                         "kli": "ghoch teywI' Ha'",
-                        "id": "Mereset file yang dilacak",
-						"de": "Alle tracked Dateien zurücksetzen"
+                        "id": "Mereset file yang dilacak"
                     }
                 }
             ]
@@ -845,8 +779,7 @@
                 "tel": "నవీకరణ",
                 "hin": "अद्यतन करें",
                 "kli": "chu'",
-                "id": "Memperbarui",
-				"de": "Aktualisieren"
+                "id": "Memperbarui"
             },
             "keywords": "update fetch",
             "desc": {
@@ -855,8 +788,7 @@
                 "tel": "మరొక రిపోజిటరీ నుండి వస్తువులు మరియు రిఫరెన్సులను డౌన్లోడ్ చేయండి",
                 "hin": "वस्तुओं को डाउनलोड करें और एक और भंडार से refs",
                 "kli": "Suq Hoch qun vo' Hop waw'",
-                "id": "Unduh semua riwayat dari repositori jarak jauh",
-				"de": "Komplette Remote Repository herunterladen"
+                "id": "Unduh semua riwayat dari repositori jarak jauh"
             },
             "url": "https://git-scm.com/docs/git-fetch",
             "options": [
@@ -869,8 +801,7 @@
                         "tel": "అన్ని రిమోట్లను పొందు",
                         "hin": "सभी रिमोट प्राप्त करें",
                         "kli": "Hoch Hop Suq",
-                        "id": "Ambil semua remote",
-						"de": "Alle Remotes herunterladen"
+                        "id": "Ambil semua remote"
                     }
                 },
                 {
@@ -882,8 +813,7 @@
                         "tel": "పొందటానికి ముందు, రిమోట్లో ఇకపై ఉన్న ఏ రిమోట్ ట్రాకింగ్ సూచనలను తొలగించండి",
                         "hin": "लाने से पहले, रिमोट पर किसी भी दूरस्थ-ट्रैकिंग संदर्भ को हटा दें जो अब मौजूद नहीं है",
                         "kli": "pa' Suq, vay' Hop ghoch 'e' qawlu' nIv'e' Hop QIH",
-                        "id": "Sebelum mengambil, hapus referensi pelacakan jarak jauh yang tidak lagi ada di remote",
-						"de": "Vor dem Herunterladen alle Remote-Trackin Referenzen entfernen welche dort nicht mehr existieren"
+                        "id": "Sebelum mengambil, hapus referensi pelacakan jarak jauh yang tidak lagi ada di remote"
                     }
                 }
             ]
@@ -897,8 +827,7 @@
                 "tel": "నవీకరణ",
                 "hin": "अद्यतन करें",
                 "kli": "chu'",
-                "id": "Memperbarui",
-				"de": "Aktualisieren"
+                "id": "Memperbarui"
             },
             "keywords": "update pull",
             "desc": {
@@ -907,8 +836,7 @@
                 "tel": "మరొక రిపోజిటరీ లేదా స్థానిక బ్రాంచ్తో కలిపి ఇంటిగ్రేట్ చేయండి",
                 "hin": "एक और भंडार या स्थानीय शाखा के साथ लाने और एकीकृत करने के लिए",
                 "kli": "chu' lutu'lu'bej Sor",
-                "id": "Memperbarui cabang lokal dari mitra jarak jauh",
-				"de": "Lokale Branch aus Remote Branch aktualisieren"
+                "id": "Memperbarui cabang lokal dari mitra jarak jauh"
             },
             "url": "https://git-scm.com/docs/git-pull",
             "options": [
@@ -921,8 +849,7 @@
                         "tel": "మరొక రిపోజిటరీ లేదా స్థానిక బ్రాంచ్తో కలిపి ఇంటిగ్రేట్ చేయండి",
                         "hin": "एक और भंडार या स्थानीय शाखा के साथ लाने और एकीकृत करने के लिए",
                         "kli": "Hop Sor lutu'lu'bej Sor Suq",
-                        "id": "Ambil dari dan integrasikan dengan repositori lain atau cabang lokal",
-						"de": "Herunterladen und Integrieren eines anderen Repository oder lokalen Branches"
+                        "id": "Ambil dari dan integrasikan dengan repositori lain atau cabang lokal"
                     }
                 }
             ]
@@ -936,8 +863,7 @@
                 "tel": "నవీకరణ",
                 "hin": "अद्यतन करें",
                 "kli": "chu'",
-                "id": "Memperbarui",
-				"de": "Aktualisieren"
+                "id": "Memperbarui"
             },
             "keywords": "update push",
             "desc": {
@@ -946,8 +872,7 @@
                 "tel": "అనుబంధ వస్తువులతో రిమోట్ రిఫాంలను అప్డేట్ చేయండి",
                 "hin": "संबंधित वस्तुओं के साथ रिमोट रेफरी अपडेट करें",
                 "kli": "HeS lutu'lu'bej Sor Hoch ngeH Hop",
-                "id": "Unggah semua cabang lokal yang berkomitmen ke mitra jarak jauh",
-				"de": "Alle lokalen Branch Commits in die entsprechenden Remote Versionen hochladen"
+                "id": "Unggah semua cabang lokal yang berkomitmen ke mitra jarak jauh"
             },
             "url": "https://git-scm.com/docs/git-push",
             "options": [
@@ -960,8 +885,7 @@
                         "tel": "అనుబంధ వస్తువులతో రిమోట్ రిఫాంలను అప్డేట్ చేయండి",
                         "hin": "संबंधित वस्तुओं के साथ रिमोट रेफरी अपडेट करें",
                         "kli": "HeS lutu'lu'bej Sor Hoch ngeH Hop",
-                        "id": "Perbarui referensi jarak jauh bersama dengan objek terkait",
-						"de": "Remote Referenzen aktualisieren mit verknüpften Objekten"
+                        "id": "Perbarui referensi jarak jauh bersama dengan objek terkait"
                     }
                 }
             ]
@@ -975,8 +899,7 @@
                 "tel": "విలీనం",
                 "hin": "मर्ज",
                 "kli": "DuD",
-                "id": "Menggabungkan",
-				"de": "Zusammenführen"
+                "id": "Menggabungkan"
             },
             "keywords": "merge",
             "desc": {
@@ -985,8 +908,7 @@
                 "tel": "మీ ప్రస్తుత HEAD కి శాఖను విలీనం చేస్తుంది",
                 "hin": "एक शाखा को आपके वर्तमान सिर में विलीन कर देता है",
                 "kli": "per Sor qun QamchoHmo' jIblIj Hoch tlhegh vaj Sor Qu'mey potlh",
-                "id": "Combines the specified branch’s history into the current branch",
-				"de": "Zusammenführen der entsprechenden Branch in die aktuelle Branch"
+                "id": "Combines the specified branch’s history into the current branch"
             },
             "url": "https://git-scm.com/docs/git-merge",
             "options": [
@@ -999,8 +921,7 @@
                         "tel": "మీ ప్రస్తుత HEAD కి శాఖను విలీనం చేస్తుంది",
                         "hin": "एक शाखा को आपके वर्तमान सिर में विलीन कर देता है",
                         "kli": "Sor Qu'mey potlh nach DuD",
-                        "id": "Menggabungkan cabang ke HEAD Anda saat ini",
-						"de": "Zusammenführen einer Branch in deine aktuelle HEAD"
+                        "id": "Menggabungkan cabang ke HEAD Anda saat ini"
                     }
                 }
             ]
@@ -1023,8 +944,7 @@
                 "tel": "మీ ప్రస్తుత HEAD ను బ్రాంచ్-పేరుకు మార్చండి",
                 "hin": "शाखा के नाम पर अपने वर्तमान हेड को रीबेस करें",
                 "kli": "Qu'mey potlh nach onto DoS Sor waw' jatlhqa'",
-                "id": "Rebase HEAD Anda saat ini ke cabang target",
-				
+                "id": "Rebase HEAD Anda saat ini ke cabang target"
             },
             "url": "https://git-scm.com/docs/git-rebase",
             "options": [
@@ -1123,8 +1043,7 @@
                 "tel": "దిద్దుబాటు రద్దుచెయ్యి",
                 "hin": "पूर्ववत",
                 "kli": "Ha'",
-                "id": "Batalkan",
-				"de": "Rückgängig"
+                "id": "Batalkan"
             },
             "keywords": "reset undo",
             "desc": {
@@ -1133,8 +1052,7 @@
                 "tel": "ఈ ఫారమ్ వారి స్థితికి అన్ని మార్గాల కోసం ఇండెక్స్ ఎంట్రీలను రీసెట్ చేస్తుంది",
                 "hin": "यह फॉर्म इंडेक्स प्रविष्टियों को अपने राज्य के सभी पथों के लिए रीसेट करता है",
                 "kli": "Hoch HeS qaSpu'DI' [HeS], choH choq lutu'lu'bej Ha'",
-                "id": "Membatalkan semua komitmen setelah [komit], mempertahankan perubahan secara lokal",
-				"de": "Alle Commits nach dem letzten [commit] rückgängig machen, lokale Änderungen beibehalten"
+                "id": "Membatalkan semua komitmen setelah [komit], mempertahankan perubahan secara lokal"
             },
             "url": "https://git-scm.com/docs/git-reset",
             "options": [
@@ -1147,8 +1065,7 @@
                         "tel": "వారి స్థితికి అన్ని మార్గాల కోసం ఇండెక్స్ ఎంట్రీలను రీసెట్ చేస్తుంది",
                         "hin": "अपने राज्य के सभी पथों के लिए इंडेक्स प्रविष्टियों को रीसेट करता है",
                         "kli": "Qu'mey potlh Hoch paths Sep Ha'",
-                        "id": "Mereset entri indeks untuk semua jalur ke statusnya",
-						"de": "Die Index Einträge für alle Pfade zurücksetzen"
+                        "id": "Mereset entri indeks untuk semua jalur ke statusnya"
                     }
                 },
                 {
@@ -1160,8 +1077,7 @@
                         "tel": "ఇండెక్స్ ఫైలును లేదా పని చెట్టును తాకదు",
                         "hin": "सूचकांक फ़ाइल या काम करने वाले पेड़ को बिल्कुल स्पर्श नहीं करता है",
                         "kli": "wej teywI' Qu'mey potlh Sor pagh Hot qabDaj",
-                        "id": "Tidak menyentuh file indeks atau pohon kerja sama sekali",
-						"de": "Index Datei und Arbeitsbaum werden nicht angepasst"
+                        "id": "Tidak menyentuh file indeks atau pohon kerja sama sekali"
                     }
                 },
                 {
@@ -1173,8 +1089,7 @@
                         "tel": "ఇండెక్స్ను రీసెట్ చేస్తోంది కానీ పని చెట్టు కాదు మరియు నవీకరించబడలేదు ఏమి నివేదికలు",
                         "hin": "इंडेक्स को रीसेट करता है लेकिन काम नहीं कर रहा पेड़ और रिपोर्ट जो अद्यतन नहीं किया गया है",
                         "kli": "latlhpu'vaD Qu'mey potlh 'ach wej Sor 'ej ja' maq wej DujlIj chu'",
-                        "id": "Atur ulang indeks tetapi bukan pohon kerja dan laporkan apa yang belum diperbarui",
-						"de": "Setzt den Index zurück, jedoch nicht den Arbeitsbaum. Zeigt an was nicht aktualisiert wurde"
+                        "id": "Atur ulang indeks tetapi bukan pohon kerja dan laporkan apa yang belum diperbarui"
                     }
                 },
                 {
@@ -1186,8 +1101,7 @@
                         "tel": "ఇండెక్స్ మరియు వర్కింగ్ చెట్టును రీసెట్ చేస్తుంది. కట్టుబడి నుండి పని చెట్టు లో ట్రాక్ ఫైళ్లు ఏ మార్పులు విస్మరించిన",
                         "hin": "सूचकांक और काम कर रहे पेड़ को रीसेट करता है। प्रतिबद्धता के बाद से काम करने वाले पेड़ में ट्रैक की गई फ़ाइलों में किए गए किसी भी बदलाव को त्याग दिया जाता है",
                         "kli": "Qu'mey potlh Ha' 'ej Sor. polHa' ghoch teywI' qaStaHvIS qaSchoH HeS Sor choH vay'",
-                        "id": "Atur ulang indeks dan pohon kerja. Setiap perubahan pada file yang dilacak di pohon kerja sejak komit dibuang",
-						"de": "Index und Arbeitsbaum werden zurückgesetzt. Alle Änderungen im Arbeitsbaum seit dem letzten Commit werden zurückgesetzt"
+                        "id": "Atur ulang indeks dan pohon kerja. Setiap perubahan pada file yang dilacak di pohon kerja sejak komit dibuang"
                     }
                 }
             ]
@@ -1201,8 +1115,7 @@
                 "tel": "దిద్దుబాటు రద్దుచెయ్యి",
                 "hin": "पूर्ववत",
                 "kli": "Ha'",
-                "id": "Batalkan",
-				"de": "Rückgängig"
+                "id": "Batalkan"
             },
             "keywords": "reset undo clean",
             "desc": {
@@ -1211,8 +1124,7 @@
                 "tel": "తీసివేయబడకుండా గురించి అన్ట్రాక్డ్ ఫైల్లను చూపుతుంది",
                 "hin": "हटाए जाने के बारे में अनचाहे फ़ाइलों को दिखाता है",
                 "kli": "wej ghoch teywI' jIqapruppu': teqlu'pu' cha'",
-                "id": "Memperlihatkan file yang tidak terlacak yang akan dihapus",
-				"de": "Zeigt nicht getrackte Dateien welche entfernt werden"
+                "id": "Memperlihatkan file yang tidak terlacak yang akan dihapus"
             },
             "url": "https://git-scm.com/docs/git-clean",
             "options": [
@@ -1225,8 +1137,7 @@
                         "tel": "తీసివేయబడకుండా గురించి అన్ట్రాక్డ్ ఫైల్లను చూపుతుంది",
                         "hin": "हटाए जाने के बारे में अनचाहे फ़ाइलों को दिखाता है",
                         "kli": "wej ghoch teywI' jIqapruppu': teqlu'pu' cha'",
-                        "id": "Memperlihatkan file yang tidak terlacak yang akan dihapus",
-						"de": "Zeigt nicht getrackte Dateien an welche entfernt werden"
+                        "id": "Memperlihatkan file yang tidak terlacak yang akan dihapus"
                     }
                 },
                 {
@@ -1238,8 +1149,7 @@
                         "tel": "అన్ని ట్రాక్ చేయని ఫైళ్లను తొలగిస్తుంది",
                         "hin": "सभी अनचाहे फ़ाइलों को हटा देता है",
                         "kli": "Hoch wej ghoch teywI' Qaw'",
-                        "id": "Menghapus semua file yang tidak terlacak",
-						"de": "Alle nicht getrackten Dateien entfernen"
+                        "id": "Menghapus semua file yang tidak terlacak"
                     }
                 }
             ]
@@ -1253,8 +1163,7 @@
                 "tel": "చరిత్ర",
                 "hin": "इतिहास",
                 "kli": "QonoS",
-                "id": "Sejarah",
-				"de": "Historie"
+                "id": "Sejarah"
             },
             "keywords": "history log",
             "desc": {
@@ -1263,8 +1172,7 @@
                 "tel": "అన్ని పనులను చూపించు",
                 "hin": "सभी काम दिखाएं",
                 "kli": "Qu'mey potlh qun Sor Qu'mey potlh tetlh",
-                "id": "Daftar riwayat versi untuk cabang saat ini",
-				"de": "Listet die Versionshistorie der aktuellen Branch auf"
+                "id": "Daftar riwayat versi untuk cabang saat ini"
             },
             "url": "https://git-scm.com/docs/git-log",
             "options": [
@@ -1277,8 +1185,7 @@
                         "tel": "అన్ని పనులను చూపించు",
                         "hin": "सभी काम दिखाएं",
                         "kli": "Hoch HeS cha'",
-                        "id": "Tampilkan semua komitmen",
-						"de": "Alle Commits anzeigen"
+                        "id": "Tampilkan semua komitmen"
                     }
                 },
                 {
@@ -1290,8 +1197,7 @@
                         "tel": "ఫైల్లకు మార్పులను చూపించు",
                         "hin": "फ़ाइल में बदलाव दिखाएं",
                         "kli": "choH teywI' cha'",
-                        "id": "Tampilkan perubahan pada file",
-						"de": "Zeigt Änderungen der Datei an"
+                        "id": "Tampilkan perubahan pada file"
                     }
                 },
                 {
@@ -1303,8 +1209,7 @@
                         "tel": "అన్ని పనులను గ్రాఫ్గా చూపిస్తుంది",
                         "hin": "दिखाता है कि ग्राफ के रूप में सभी काम करता है",
                         "kli": "Hoch HeS cha' je Sor",
-                        "id": "Menampilkan semua komit sebagai grafik",
-						"de": "Zeigt alle Änderungen als Graph an"
+                        "id": "Menampilkan semua komit sebagai grafik"
                     }
                 }
             ]
@@ -1318,8 +1223,7 @@
                 "tel": "పొడిగింపులు",
                 "hin": "एक्सटेंशन",
                 "kli": "puS",
-                "id": "Ekstensi",
-				"de": "Erweiterungen"
+                "id": "Ekstensi"
             },
             "keywords": "extensions flow init feature release hotfix start finish",
             "desc": {
@@ -1328,8 +1232,7 @@
                 "tel": "ఫీచర్ శాఖ వర్క్ఫ్లో ఒక జిట్ పొడిగింపు",
                 "hin": "फीचर शाखा वर्कफ़्लो के लिए एक गिट एक्सटेंशन",
                 "kli": "Sor qabuQ chenmoH ngoq",
-                "id": "Ekstensi git untuk alur kerja cabang fitur",
-				"de": "Eine Git Erweiterung für Funktionalitäts Branch Arbeitsablauf"
+                "id": "Ekstensi git untuk alur kerja cabang fitur"
             },
             "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
             "options": [
@@ -1340,8 +1243,7 @@
                         "en": "Initialize flow inside an existing repository",
                         "tr": "Varolan bir git deposunda flow eklentisini tanımlar",
                         "kli": "loj qoD waw'",
-                        "id": "Inisialisasi aliran di dalam repositori yang ada",
-						"de": "Arbeitsablauf innerhalb eines bestehenden Repositories initialisieren"
+                        "id": "Inisialisasi aliran di dalam repositori yang ada"
                     }
                 },
                 {
@@ -1353,8 +1255,7 @@
                         "tel": "ఇప్పటికే ఉన్న రిపోజిటరీ లోపల ప్రవాహాన్ని ప్రారంభించండి",
                         "hin": "मौजूदा भंडार के अंदर प्रवाह शुरू करें",
                         "kli": "Sor chu' chenmoH vo' Qav Hach",
-                        "id": "Buat cabang baru dari pengembangan terbaru sebagai fitur / nama-fitur",
-						"de": "Neue Branch aus letzter Entwicklung als Funktionalität/Funktionalitäts-Name erstellen"
+                        "id": "Buat cabang baru dari pengembangan terbaru sebagai fitur / nama-fitur"
                     }
                 },
                 {
@@ -1366,8 +1267,7 @@
                         "tel": "విశిష్ట-పేరును అభివృద్ధి చేయడానికి మరియు శాఖను తొలగిస్తుంది",
                         "hin": "शाखा का विकास और निकालने में फीचर-नाम विलय करता है",
                         "kli": "pong DuD vaj Hach 'ej Sor Qaw'",
-                        "id": "Menggabungkan fitur-nama ke dalam mengembangkan dan menghapus cabang",
-						"de": "Funktionalitäts-Name in Entwicklungs und Remote Branch zusammenführen"
+                        "id": "Menggabungkan fitur-nama ke dalam mengembangkan dan menghapus cabang"
                     }
                 },
                 {
@@ -1379,8 +1279,7 @@
                         "tel": "రిమోట్కు ఒక లక్షణాన్ని ప్రచురిస్తుంది",
                         "hin": "रिमोट को एक सुविधा प्रकाशित करता है",
                         "kli": "ngeH Hop",
-                        "id": "Menerbitkan fitur ke remote",
-						"de": "Veröffentlicht eine Funktionalität in Remote-Branch"
+                        "id": "Menerbitkan fitur ke remote"
                     }
                 },
                 {
@@ -1392,8 +1291,7 @@
                         "tel": "రిమోట్ నుండి మీ స్థానిక రిపోజిటరీకి ఫీచర్ను లాగండి",
                         "hin": "रिमोट से अपने स्थानीय भंडार में एक सुविधा खींचें",
                         "kli": "DaqaSmoH vo' Hop waw' lutu'lu'bej",
-                        "id": "Tarik fitur dari jarak jauh ke repositori lokal Anda",
-						"de": "Eine Funktionalität aus Remote Branch in lokales Repository ziehen"
+                        "id": "Tarik fitur dari jarak jauh ke repositori lokal Anda"
                     }
                 },
                 {
@@ -1405,8 +1303,7 @@
                         "tel": "తాజా అభివృద్ధి నుండి విడుదల శాఖను సృష్టిస్తుంది",
                         "hin": "नवीनतम विकास से एक रिलीज शाखा बनाता है",
                         "kli": "Sor Qav chenmoH vo' latest Hach",
-                        "id": "Membuat cabang rilis dari pengembangan terbaru",
-						"de": "Ein Veröffentlichungsbranch aus der letzten Entwicklung erstellen"
+                        "id": "Membuat cabang rilis dari pengembangan terbaru"
                     }
                 },
                 {
@@ -1418,8 +1315,7 @@
                         "tel": "బ్రాంచ్ బ్రాంచిని మాస్టర్ గా మార్చి విడదలస్తుంది",
                         "hin": "मास्टर को रिलीज शाखा में विलय करता है और विकसित होता है",
                         "kli": "vaj pIn'a' Sor 'ej Hach DuD Qav",
-                        "id": "Menggabungkan cabang rilis menjadi master dan berkembang",
-						"de": "Veröffentlichungsbranch in Master und Entwicklung zusammenführen"
+                        "id": "Menggabungkan cabang rilis menjadi master dan berkembang"
                     }
                 },
                 {
@@ -1431,8 +1327,7 @@
                         "tel": "మాస్టర్స్ నుండి హాట్ఫిక్స్ / ఫిక్సేషన్-పేరు శాఖను సృష్టిస్తుంది",
                         "hin": "मास्टर से हॉटफिक्स / फ़िक्स-नाम शाखा बनाता है",
                         "kli": "tI' Sor chenmoH vo' pIn'a'",
-                        "id": "Membuat cabang hotfix / fix-name dari master",
-						"de": "Erstellt einen Hotfix/Fix-Name Branch aus Master"
+                        "id": "Membuat cabang hotfix / fix-name dari master"
                     }
                 },
                 {
@@ -1444,8 +1339,7 @@
                         "tel": "మాస్టర్ లోకి పరిష్కరించడానికి-పేరు విలీనం మరియు అభివృద్ధి",
                         "hin": "मास्टर में फिक्स-नाम विलय और विकसित करें",
                         "kli": "DuD pIn'a' 'ej Hach",
-                        "id": "Menggabungkan fix-name menjadi master dan berkembang",
-						"de": "Fügt Fix-Name in Master und Entwicklung zusammen"
+                        "id": "Menggabungkan fix-name menjadi master dan berkembang"
                     }
                 }
             ]
@@ -1459,8 +1353,7 @@
                 "tel": "అడ్మినిస్ట్రేషన్",
                 "hin": "शासन प्रबंध",
                 "kli": "joH",
-                "id": "Administrasi",
-				"de": "Administration"
+                "id": "Administrasi"
             },
             "keywords": "administration config",
             "desc": {
@@ -1469,8 +1362,7 @@
                 "tel": "రిపోజిటరీ లేదా గ్లోబల్ ఆప్షన్స్ ను పొందండి మరియు సెట్ చేయండి",
                 "hin": "भंडार या वैश्विक विकल्प प्राप्त करें और सेट करें",
                 "kli": "Suq 'ej waw' pagh, yor DuH HIjmeH",
-                "id": "Dapatkan dan atur opsi penyimpanan atau global",
-				"de": "Repository oder globale Optionen anpassen"
+                "id": "Dapatkan dan atur opsi penyimpanan atau global"
             },
             "url": "https://git-scm.com/docs/git-config",
             "options": [
@@ -1483,9 +1375,7 @@
                         "tel": "రిపోజిటరీ ఆకృతీకరణ ఫైలును సరికూర్చుము",
                         "hin": "भंडार विन्यास फाइल संपादित करें",
                         "kli": "waw' ngoq teywI' choH",
-                        "id": "Edit file konfigurasi repositori",
-						"de": "Repository Konfiguration anpassen"
-						
+                        "id": "Edit file konfigurasi repositori"
                     }
                 },
                 {
@@ -1497,8 +1387,7 @@
                         "tel": "గ్లోబల్ config ఫైలును సవరించు",
                         "hin": "वैश्विक विन्यास फाइल संपादित करें",
                         "kli": "yor ngoq teywI' choH",
-                        "id": "Edit file konfigurasi global",
-						"de": "Globale Konfiguration anpassen"
+                        "id": "Edit file konfigurasi global"
                     }
                 },
                 {
@@ -1510,8 +1399,7 @@
                         "tel": "గ్లోబల్ సెట్టింగులలో మీ యూజర్ పేరును నిర్వచించండి",
                         "hin": "वैश्विक सेटिंग्स में अपने उपयोगकर्ता नाम को परिभाषित करें",
                         "kli": "ponglIj'e' HIjmeH qaStaHvIS yor DuH",
-                        "id": "Tetapkan nama pengguna Anda di pengaturan global",
-						"de": "Benutzernamen in globalen Einstellungen anpassen"
+                        "id": "Tetapkan nama pengguna Anda di pengaturan global"
                     }
                 },
                 {
@@ -1523,8 +1411,7 @@
                         "tel": "మీ మెయిల్ను గ్లోబల్ సెట్టింగులలో నిర్వచించండి",
                         "hin": "वैश्विक सेटिंग्स में अपने मेल को परिभाषित करें",
                         "kli": "De' HIjmeH qaStaHvIS yor DuH",
-                        "id": "Tetapkan email Anda di pengaturan global",
-						"de": "E-Mail Adresse in globale Optionen anpassen"
+                        "id": "Tetapkan email Anda di pengaturan global"
                     }
                 }
             ]
@@ -1538,8 +1425,7 @@
                 "tel": "అడ్మినిస్ట్రేషన్",
                 "hin": "शासन प्रबंध",
                 "kli": "joH",
-                "id": "Administrasi",
-				"de": "Administration"
+                "id": "Administrasi"
             },
             "keywords": "administration gc garbage collection",
             "desc": {
@@ -1548,8 +1434,7 @@
                 "tel": "అనవసరమైన ఫైళ్లను శుభ్రపరచండి మరియు స్థానిక రిపోజిటరీని ఆప్టిమైజ్ చేయండి",
                 "hin": "अनावश्यक फ़ाइलों को क्लीनअप करें और स्थानीय भंडार को अनुकूलित करें",
                 "kli": "Say' waw' lutu'lu'bej teywI'",
-                "id": "Bersihkan file yang tidak perlu dan optimalkan repositori lokal",
-				"de": "Nicht benötigte Dateien entfernen und lokales Repository optimieren"
+                "id": "Bersihkan file yang tidak perlu dan optimalkan repositori lokal"
             },
             "url": "https://git-scm.com/docs/git-gc",
             "options": [
@@ -1562,8 +1447,7 @@
                         "tel": "మీ స్థానిక రిపోజిటరీ కోసం చెత్త సేకరణను అమలు చేస్తుంది",
                         "hin": "आपके स्थानीय भंडार के लिए एक कचरा संग्रह चलाता है",
                         "kli": "veQ vuDmey tlhopDaq lutu'lu'bej waw' qet",
-                        "id": "Menjalankan garbage collection untuk repositori lokal Anda",
-						"de": "Garbage Collection in lokalem Repository ausführen"
+                        "id": "Menjalankan garbage collection untuk repositori lokal Anda"
                     }
                 },
                 {
@@ -1575,8 +1459,7 @@
                         "tel": "మీ స్థానిక రిపోజిటరీను ఆప్టిమైజ్ చేయడానికి GC మరింత దూకుడుగా అమలు అవుతుంది",
                         "hin": "अपने स्थानीय भंडार को अनुकूलित करने के लिए जीसी को आक्रामक रूप से चलाता है",
                         "kli": "latlh Suv lutu'lu'bej waw' Say', qatlh qet gc",
-                        "id": "Jalankan gc lebih agresif untuk mengoptimalkan repositori lokal Anda",
-						"de": "Garbage Collection aggressiver in lokalem Repository ausführen"
+                        "id": "Jalankan gc lebih agresif untuk mengoptimalkan repositori lokal Anda"
                     }
                 }
             ]
@@ -1590,16 +1473,14 @@
                 "tel": "అడ్మినిస్ట్రేషన్",
                 "hin": "शासन प्रबंध",
                 "kli": "joH",
-                "id": "Administrasi",
-				"de": "Administration"
+                "id": "Administrasi"
             },
             "keywords": "administration prune",
             "desc": {
                 "en": "Prune all unreachable objects from the object database",
                 "tr": "Sunucuda referansı olmayan tüm objeleri siler",
                 "kli": "Hoch QIH objects teq waw' vo'",
-                "id": "Pangkas semua objek yang tidak dapat dijangkau dari basis data objek",
-				"de": "Alle nicht erreichbaren Objekte aus der Objekte Datenbank löschen"
+                "id": "Pangkas semua objek yang tidak dapat dijangkau dari basis data objek"
             },
             "url": "https://git-scm.com/docs/git-prune",
             "options": [
@@ -1612,8 +1493,7 @@
                         "tel": "అందుబాటులోని శాఖలోని ఏ వస్తువును ఇకపై సూచించని వస్తువులను తొలగిస్తుంది",
                         "hin": "ऐसी वस्तुओं को हटा देता है जो अब पहुंच योग्य शाखा में किसी ऑब्जेक्ट की ओर इशारा नहीं करते हैं",
                         "kli": "Hoch QIH objects teq waw' vo'",
-                        "id": "Menghapus objek yang tidak lagi menunjuk ke objek apa pun di cabang yang dapat dijangkau",
-						"de": "Entfernt Objekte welche aus aktueller Branch nicht mehr erreicht werden können"
+                        "id": "Menghapus objek yang tidak lagi menunjuk ke objek apa pun di cabang yang dapat dijangkau"
                     }
                 },
                 {
@@ -1625,8 +1505,7 @@
                         "tel": "ఏదైనా తొలగించవద్దు; దానిని తీసివేస్తానని రిపోర్ట్ చెయ్యండి",
                         "hin": "कुछ भी मत हटाओ; बस रिपोर्ट करें कि यह क्या हटा देगा",
                         "kli": "wej vay' teq; neH nuq teq 'oH ja'",
-                        "id": "Jangan hapus apa pun; cukup laporkan apa yang akan dihapus",
-						"de": "Ausgabe aller zu entfernenden Objekte"
+                        "id": "Jangan hapus apa pun; cukup laporkan apa yang akan dihapus"
                     }
                 },
                 {
@@ -1638,8 +1517,7 @@
                         "tel": "ప్రూనే పురోగతి చూపిస్తుంది",
                         "hin": "प्रगति प्रगति दिखाता है",
                         "kli": "Ser cha'",
-                        "id": "Memperlihatkan proses pemangkasan",
-						"de": "Fortschritt anzeigen"
+                        "id": "Memperlihatkan proses pemangkasan"
                     }
                 }
             ]
@@ -1653,8 +1531,7 @@
                 "tel": "డీబగ్",
                 "hin": "डिबग",
                 "kli": "Say'",
-                "id": "Debug",
-				"de": "Debug"
+                "id": "Debug"
             },
             "keywords": "debug bisect",
             "desc": {
@@ -1663,8 +1540,7 @@
                 "tel": "బగ్ను పరిచయం చేసిన నిబద్ధతను కనుగొనడానికి బైనరీ శోధనను ఉపయోగించండి",
                 "hin": "एक बग पेश करने वाली प्रतिबद्धता को खोजने के लिए बाइनरी खोज का उपयोग करें",
                 "kli": "tu' je ghew Qaw'",
-                "id": "Gunakan pencarian biner untuk menemukan komit yang memperkenalkan bug",
-				"de": "Binäre Suche nutzen um den Commit zu finden, welcher den Bug hinzugefügt hat"
+                "id": "Gunakan pencarian biner untuk menemukan komit yang memperkenalkan bug"
             },
             "url": "https://git-scm.com/docs/git-bisect",
             "options": [
@@ -1677,8 +1553,7 @@
                         "tel": "జిట్ బిస్క్ట్ విజర్డ్ ప్రారంభించండి",
                         "hin": "गिट बिसेक्ट विज़ार्ड शुरू करें",
                         "kli": "ghew Qaw' tagh",
-                        "id": "Mulai git bisect wizard",
-						"de": "Den Git Bisect Wizard starten"
+                        "id": "Mulai git bisect wizard"
                     }
                 },
                 {
@@ -1690,8 +1565,7 @@
                         "tel": "జిట్ బితెచ్ విజర్డ్ మంచి కట్టుబడి గురించి తెలుసుకోండి",
                         "hin": "गिट द्विभाजक जादूगर को एक अच्छी प्रतिबद्धता के बारे में पता है",
                         "kli": "ja' QaQ",
-                        "id": "Biarkan git wizard membagi dua komit yang baik",
-						"de": "Dem Git Bisect Wizard einen guten Commit zeigen"
+                        "id": "Biarkan git wizard membagi dua komit yang baik"
                     }
                 },
                 {
@@ -1703,8 +1577,7 @@
                         "tel": "జిట్ బిస్క్ట్ విజర్డ్ ఒక చెడ్డ నిబద్ధత గురించి తెలపండి",
                         "hin": "गिट को विज़ार्ड विज़ार्ड को खराब प्रतिबद्धता के बारे में पता चलो",
                         "kli": "ja' qab",
-                        "id": "Biarkan git wizard membagi dua komit buruk",
-						"de": "Dem Git Bisect Wizard einen schlechten Commit zeigen"
+                        "id": "Biarkan git wizard membagi dua komit buruk"
                     }
                 },
                 {
@@ -1716,8 +1589,7 @@
                         "tel": "మీ గేట్ను విజ్జార్డ్ను అంతం చేయండి",
                         "hin": "अपने गिट bisect जादूगर समाप्त करें",
                         "kli": "mIw rIn",
-                        "id": "Akhiri git bisect wizard",
-						"de": "Den Git Bisect Wizard beenden"
+                        "id": "Akhiri git bisect wizard"
                     }
                 }
             ]
@@ -1731,8 +1603,7 @@
                 "tel": "డీబగ్",
                 "hin": "डिबग",
                 "kli": "Say'",
-                "id": "Debug",
-				"de": "Debug"
+                "id": "Debug"
             },
             "keywords": "debug blame",
             "desc": {
@@ -1741,8 +1612,7 @@
                 "tel": "ఒక ఫైల్ లో నిర్దిష్ట కట్టుబడి పంక్తులు జోడించిన ప్రదర్శన మెటాడేటా ప్రదర్శించు",
                 "hin": "फ़ाइल में विशिष्ट प्रतिबद्ध लाइनों से जुड़े लेखक मेटाडेटा प्रदर्शित करें",
                 "kli": "joH De' ngoq specific cha'",
-                "id": "Menampilkan metadata penulis yang dilampirkan ke baris yang dikomit khusus dalam file",
-				"de": "Anzeige der Autor Metadaten welche zu einer bestimmten Zeile des Commits gehören"
+                "id": "Menampilkan metadata penulis yang dilampirkan ke baris yang dikomit khusus dalam file"
             },
             "url": "https://git-scm.com/docs/git-blame",
             "options": [
@@ -1755,8 +1625,7 @@
                         "tel": "తేదీ, సమయం మరియు లైన్ సంఖ్యలతో సహా ప్రతి రచయితను సోర్స్లో పని చేయండి",
                         "hin": "तिथि, समय और रेखा संख्या सहित स्रोत पर काम करने वाले प्रत्येक लेखक को दिखाएं",
                         "kli": "Hoch joH Qap Hal date, poH je tlhegh mI' DaH nobvam cha'",
-                        "id": "Perlihatkan setiap penulis mengerjakan sumber termasuk tanggal, waktu, dan nomor baris",
-						"de": "Zeigt alle Autoren einer Quelle mit Datum, Zeit und Zeilennummer an"
+                        "id": "Perlihatkan setiap penulis mengerjakan sumber termasuk tanggal, waktu, dan nomor baris"
                     }
                 },
                 {
@@ -1769,7 +1638,6 @@
                         "hin": "एक्स और वाई लाइनों के बीच स्रोत के आउटपुट को प्रतिबंधित करें",
                         "kli": "tI' Hal SabtaHbogh x 'ej y tlhegh",
                         "id": "Batasi keluaran sumber antara garis x dan y"
-						"de": "Beschränkt Ausgabe der Quelle auf die Zeilen x bis y"
                     }
                 },
                 {
@@ -1781,8 +1649,7 @@
                         "tel": "వినియోగదారు పేరుకు బదులుగా రచయిత ఇమెయిల్ చిరునామాను చూపించు",
                         "hin": "उपयोगकर्ता नाम के बजाय लेखक ईमेल पता दिखाएं",
                         "kli": "cha' joH SoQ joH",
-                        "id": "Tampilkan alamat email penulis dan bukan nama pengguna",
-						"de": "Zeigt die Email Adresse des Autors anstelle des Benutzernamen"
+                        "id": "Tampilkan alamat email penulis dan bukan nama pengguna"
                     }
                 },
                 {
@@ -1795,7 +1662,6 @@
                         "hin": "व्हाइटस्पेस परिवर्तनों को अनदेखा करें",
                         "kli": "chIm logh choH buSHa'",
                         "id": "Abaikan perubahan spasi putih"
-
                     }
                 }
             ]
