@@ -13,7 +13,7 @@
 
 body {
   font-family: sans-serif;
-  background: #21252b;
+  background: #040e1d;
   font-family: 'Fira Sans', sans-serif;
   overflow-y: scroll;
 }
@@ -63,7 +63,7 @@ hr {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: #123613;
   border-radius: 0 5px 0 0;
 }
 
@@ -108,7 +108,7 @@ hr {
 }
 
 .dropdown-content a {
-  color: black;
+  color: rgb(15, 5, 5);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
