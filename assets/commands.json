@@ -472,6 +472,14 @@
                         "ptBR": "Usa a mensagem fornecida como a descrição do commit. Se vários -m forem informados, suas mensagens são concatenadas em parágrafos separados"
                     }
                 },
+		{
+                    "advanced": false,
+                    "code": "commit -am [message]",
+                    "desc": {
+                        "en": "Use the given message as the commit message. In addition, the -a flag will commit files that have been modified since the last commit. If multiple -m options are given, their values are concatenated as separate paragraphs. The -a combines git add and git commit.",
+			                        
+                    }
+                },
                 {
                     "advanced": false,
                     "code": "commit --all",
